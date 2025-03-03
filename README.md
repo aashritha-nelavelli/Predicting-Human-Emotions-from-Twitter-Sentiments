@@ -36,7 +36,9 @@ Political Parties: Track voter opinions and sentiments to gauge public response 
     
 ## ⚙️💻 Implementation
 This project is implemented using Python. </br> The Jupyter Notebook for the implementation is available in this repository: </br>
-> [Jupyter Notebook](https://github.com/aashritha-nelavelli/Predicting-Human-Emotions-from-Twitter-Sentiments/blob/main/.ipynb) </br>
+this repository: </br>
+> [Jupyter Notebook](https://github.com/aashritha-nelavelli/Predicting-Human-Emotions-from-Twitter-Sentiments/blob/main/Human_Emotion_Recognition_Using_Twitter_Sentiment_Analysis.ipynb) </br>
+> [Report](https://github.com/aashritha-nelavelli/Predicting-Human-Emotions-from-Twitter-Sentiments/blob/main/Report.pdf) </br>
 
 Hope this repository was helpful! </br>
 Do star the repository incase you liked it. </br>
